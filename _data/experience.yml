@@ -1,19 +1,12 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Software engineer at Hansya
+- company: Hansya.com
+  position: Machine Learning / Software Engineer
+  duration: Oct, 2013 &mdash; Jun, 2017
+  summary: <ul class="resume-item-list"><li>Analyzed and processed complex data sets using advanced querying, visualization and analytics tools</li><li>Successfully built different models like SVM, Boosted Decision Trees with low error rate</li><li>Created model evaluation reports based on Confusion Matrix and ROC Curve</li><li>Developed an interface to facilitate the interaction with the system, resulted in 40 percent operation reduction</li><li>Continually established clear operational specifications and formulated software requirements</li><li>Wrote maintainable and extensible code in an agile team environment</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Intern at Air force
+- company: Air Force Research Lab
+  position: Engineering Intern
+  duration:  May, 2013 &mdash; Aug, 2013
+  summary: <ul class="resume-item-list"><li>Interface with business analysts, developers, and technical support to determine optimal specifications</li><li>Implemented designs, including experimentation and multiple iterations</li><li>Rapidly prototyped new capabilities to confirm feasibility</li>

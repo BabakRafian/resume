@@ -1,16 +1,30 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# Yelp Dataset Challenge
+- project: Yelp Dataset Challenge
+  role: Machine learning engineer
+  duration: Feb 2018 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: <ul><li>Successfully transformed provided free-text into TF-IDF matrix and developed predictive models</li><li>Achieved 90% of success rate predicting if a user review is positive or negative using boosted decision tree</li><li>Wrote a professional report of the project pending to publish</li></ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Money Game
+- project: Money Game
+  role: Android Developer
+  duration: Aug 2017 &mdash; Dec 2017
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: <ul><li>Direct software design and development while remaining focused on clients’ needs</li><li>Developed a pull Notification System for the Money Game Android application</li><li>Collaborate closely with other team members to plan, design and develop robust solutions</li><li>Built a web API for the existing Machine Learning powered game engine</li></ul>
+
+# Job Matching application
+- project: Job Matching application
+  role: Ruby Developer
+  duration: Aug 2016 &mdash; Dec 2016
+  # url: "#"
+  description: <ul><li>Collaborated in team to create a job matching web application</li><li>Developed a scraper using Nokogiri to gather job information from internet</li></ul>
+
+# Marse Rover
+- project: Mars Rover’s Sample collecting Module
+  role: Developer
+  duration: May 2016 &mdash; Aug 2016
+  # url: "#"
+  description: <ul><li>Built an intelligent agent to explore and collect specific sample utilizing reinforcement learning</li></ul>

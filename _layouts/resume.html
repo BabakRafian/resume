@@ -32,7 +32,7 @@
           <h2 class="header-title" itemprop="jobTitle">{{ site.resume_title }}</h2>
 
           <!-- This is the markup for the icon links; moved out to an include because it's very verbose, and you shouldn't ever need to edit the markup (unless you want to re-order the icons); if you want to customize which links appear, define them in the _config.yml file -->
-          {% include icon-links.html %}
+          
         </div>
 
         <div class="executive-summary" itemprop="description">
@@ -140,14 +140,14 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Recognition</h2>
+          <h2>Coding Competitions</h2>
         </header>
 
-        {% for recognition in site.data.recognitions %}
+        {% for competition in site.data.competitions %}
         <div class="resume-item">
-          <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
-          <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
-          <p class="resume-item-copy">{{ recognition.summary }}</p>
+          <h3 class="resume-item-title" itemprop="award">{{ competition.award }}</h3>
+          <h4 class="resume-item-details">{{ competition.organization }} &bull; {{ competition.year }}</h4>
+          <p class="resume-item-copy">{{ competition.summary }}</p>
         </div>
         {% endfor %}
 
@@ -160,14 +160,14 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Associations</h2>
+          <h2>Entrepreneurial Expriences</h2>
         </header>
 
-        {% for association in site.data.associations %}
+        {% for experience in site.data.entrepreneurials %}
         <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
-          <h3 class="resume-item-title" itemprop="name">{% if association.url %}<a href="{{ association.url }}">{{ association.organization }}</a>{% else %}{{ association.organization }}{% endif %}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ association.role }} &bull; {{ association.year }}</h4>
-          <p class="resume-item-copy">{{ association.summary }}</p>
+          <h3 class="resume-item-title" itemprop="name">{% if experience.url %}<a href="{{ experience.url }}">{{ experience.organization }}</a>{% else %}{{ experience.organization }}{% endif %}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ experience.role }} &bull; {{ experience.year }}</h4>
+          <p class="resume-item-copy">{{ experience.summary }}</p>
         </div>
         {% endfor %}
 
@@ -232,8 +232,7 @@
       {% endif %}
 
       <footer class="page-footer">
-        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
+        <p class="footer-line"> <a href="http://babakrafian.github.io">Go Back</a></p>
       </footer>
 
     </div>
