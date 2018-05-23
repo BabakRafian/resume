@@ -5,7 +5,7 @@
 - project: Yelp Dataset Challenge
   role: Machine learning engineer
   duration: Feb 2018 &mdash; Present
-  # url: "#"
+  url: "https://babakrafian.github.io/projects/2018-05-22/Yelp-Dataset-Challenge"
   description: <ul><li>Successfully transformed provided free-text into TF-IDF matrix and developed predictive models</li><li>Achieved 90% of success rate predicting if a user review is positive or negative using boosted decision tree</li><li>Wrote a professional report of the project pending to publish</li></ul>
 
 # Money Game
