@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "false"
+resume_avatar:                  "true"
 resume_name:                    "Babak Rafian"
 resume_title:                   "Machine Learning / Software Engineer"
 
@@ -20,7 +20,7 @@ resume_contact_email:           "babak.rafian@gmail.com"
 resume_contact_telephone:       "(614)313-9836"
 resume_contact_address:         "280 Millside dr, Gahanna, Ohio"
 
-resume_header_contact_info:     "280 Millside dr, Gahanna, Ohio • (614)313-9836 • rafian.1@osu.edu"
+resume_header_contact_info:     "280 Millside dr, Gahanna, Ohio • (614)313-9836 • babak.rafian@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "I am equipped with wide variety of skills and experiences which can be beneficial for any type of businesses. I derive intelligence from raw data and build predictive models to help business owners make informed decisions.</p>"

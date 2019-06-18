@@ -1,18 +1,40 @@
 # Jobs
+- company: Cardinal Health
+  position: Full stack Software Engineer
+  duration: Jun, 2019 &mdash; Present
+  summary: <ul class="resume-item-list">
+    <li>Full stack developer at Cheera Chat Bot team </li>
+    </ul>
+
 # Software engineer at TCS
 - company: TATA Consultancy Services
-  position: Fullstack Software Engineer
-  duration: Jul, 2018 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Leading a team of six developers as a scrum master in Trainee Management Project</li><li>Successfully created fully authenticated login system for the Angular application</li></ul>
+  position: Full stack Software Engineer Contracted to PwC
+  duration: Jun, 2018 &mdash; Jun, 2019
+  summary: <ul class="resume-item-list">
+    <li>Contributed as a backend developer to build a cognitive assistant similar to Google Assistant & Siri</li>
+    <li>Analyzed customer’s requirements and developed detailed conversational models using Camunda modeler</li>
+    <li>Developed required RESTful API end points in NodeJs, collaborating in Agile environment using VSTS</li>
+    <li>Advocated Test Driven Development in the team therefore reduced number of defects </li>
+    <li>Built a resource management system with JAVA Spring Boot framework on the back-end and Angular on the front</li>
+    </ul>
 
 # Software engineer at Hansya
 - company: Hansya.com
   position: Machine Learning / Software Engineer
-  duration: Oct, 2013 &mdash; Jun, 2017
-  summary: <ul class="resume-item-list"><li>Analyzed and processed complex data sets using advanced querying, visualization and analytics tools</li><li>Successfully built different models like SVM, Boosted Decision Trees with low error rate</li><li>Created model evaluation reports based on Confusion Matrix and ROC Curve</li><li>Developed an interface to facilitate the interaction with the system, resulted in 40 percent operation reduction</li><li>Continually established clear operational specifications and formulated software requirements</li><li>Wrote maintainable and extensible code in an agile team environment</li></ul>
+  duration: Oct, 2016 &mdash; Dec, 2017
+  summary: <ul class="resume-item-list">
+    <li>Analyzed and processed complex data sets using advanced querying, visualization and analytics tools</li>
+    <li>Successfully built different models like SVM, Boosted Decision Trees with low error rate</li>
+    <li>Created model evaluation reports based on Confusion Matrix and ROC Curve</li>
+    <li>Developed an interface to facilitate the interaction with the system, resulted in 40 percent operation reduction</li>
+    <li>Continually established clear operational specifications and formulated software requirements</li>
+    <li>Wrote maintainable and extensible code in an agile team environment</li></ul>
 
 # Intern at Air force
 - company: Air Force Research Lab
   position: Engineering Intern
   duration:  May, 2013 &mdash; Aug, 2013
-  summary: <ul class="resume-item-list"><li>Interface with business analysts, developers, and technical support to determine optimal specifications</li><li>Implemented designs, including experimentation and multiple iterations</li><li>Rapidly prototyped new capabilities to confirm feasibility</li>
+  summary: <ul class="resume-item-list">
+    <li>Interface with business analysts, developers, and technical support to determine optimal specifications</li>
+    <li>Implemented designs, including experimentation and multiple iterations</li>
+    <li>Rapidly prototyped new capabilities to confirm feasibility</li>
